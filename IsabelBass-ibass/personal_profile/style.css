@@ -1,0 +1,21 @@
+body{text-align:center;
+background:url("http://i.imgur.com/EsB3nQX.jpg"); 
+background-size:cover;
+font-family:Helvetica;
+font-size:24px; 
+color:maroon;}
+p {line-height: 20px;
+ margin: 0 1000 0 0
+ ;
+ color: white;}
+img  {
+  border: 15px solid;
+  border-radius: 10px;
+  margin: 20 0 0 0}
+div {background: rgba(200,200,200,.3);
+      height: 250;
+      position: relative;
+      margin: 20px 60 20 60;
+      border-radius: 15px;
+      text-align:justify;
+      bottom: 20;}
